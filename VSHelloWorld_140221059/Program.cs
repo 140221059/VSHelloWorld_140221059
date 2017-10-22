@@ -14,8 +14,7 @@ namespace VSHelloWorld_140221059
     {
         public static void Main(string[] args)
         {
-            //comentario
-            //outro comentario
+            //Miguel Parro
             BuildWebHost(args).Run();
         }
 
